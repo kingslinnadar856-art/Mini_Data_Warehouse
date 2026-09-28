@@ -1,0 +1,15 @@
+state,unique_customers,total_orders,units_sold,total_revenue
+Maharashtra,9,42,198.0,881952.0
+Rajasthan,4,17,83.0,548517.0
+Uttar Pradesh,3,16,76.0,356874.0
+Odisha,2,17,73.0,349527.0
+Gujarat,3,14,80.0,293570.0
+Tamil Nadu,6,21,97.0,288803.0
+Telangana,4,12,58.0,180192.0
+Karnataka,5,16,64.0,160136.0
+Bihar,4,14,55.0,154645.0
+Madhya Pradesh,4,15,64.0,137286.0
+Delhi,2,6,33.0,94267.0
+Punjab,1,4,27.0,77273.0
+Kerala,1,4,22.0,58678.0
+West Bengal,1,2,8.0,24592.0

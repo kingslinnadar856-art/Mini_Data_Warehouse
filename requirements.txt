@@ -1,0 +1,9 @@
+# ==============================================================================
+# Mini Data Warehouse using DuckDB and Python
+# Dependencies for BTech Data Engineering Practical
+# ==============================================================================
+
+duckdb>=1.1.0
+pandas>=2.0.0
+streamlit>=1.30.0
+plotly>=5.18.0

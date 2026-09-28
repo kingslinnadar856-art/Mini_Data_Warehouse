@@ -1,0 +1,51 @@
+customer_id,customer_name,city,state,signup_date
+CUST001,Aarav Agarwal,Bengaluru,Karnataka,2023-01-13
+CUST002,Vivaan Banerjee,Coimbatore,Tamil Nadu,2023-05-06
+CUST003,Aditya Reddy,Mysuru,Karnataka,2023-02-22
+CUST004,Vihaan Malhotra,Bhubaneswar,Odisha,2023-10-07
+CUST005,Arjun Patel,Noida,Uttar Pradesh,2023-08-05
+CUST006,Sai Verma,Mumbai,Maharashtra,2023-02-17
+CUST007,Reyansh Singh,Chennai,Tamil Nadu,2023-09-16
+CUST008,Ayaan Pillai,Mumbai,Maharashtra,2023-10-15
+CUST009,Krishna Singh,Patna,Bihar,2023-11-29
+CUST010,Ishaan Kapoor,Lucknow,Uttar Pradesh,2023-08-03
+CUST011,Shaurya Reddy,Udaipur,Rajasthan,2023-10-29
+CUST012,Atharva Deshmukh,Mumbai,Maharashtra,2023-03-23
+CUST013,Kabir Kapoor,Jaipur,Rajasthan,2023-06-24
+CUST014,Rudra Deshmukh,Mysuru,Karnataka,2023-04-21
+CUST015,Aryan Dutta,Delhi,Delhi,2023-02-22
+CUST016,Priya Patel,Surat,Gujarat,2023-02-19
+CUST017,Ananya Menon,Ahmedabad,Gujarat,2023-11-06
+CUST018,Diya Deshmukh,Pune,Maharashtra,2023-08-24
+CUST019,Saanvi Mehta,Bengaluru,Karnataka,2023-07-13
+CUST020,Isha Patel,Lucknow,Uttar Pradesh,2023-05-31
+CUST021,Rhea Agarwal,Chandigarh,Punjab,2023-07-05
+CUST022,Sneha Bhat,Warangal,Telangana,2023-12-27
+CUST023,Kavya Patel,Pune,Maharashtra,2023-12-05
+CUST024,Tanvi Reddy,Kolkata,West Bengal,2023-02-10
+CUST025,Pooja Reddy,Bengaluru,Karnataka,2023-07-14
+CUST026,Deepika Deshmukh,Udaipur,Rajasthan,2023-11-22
+CUST027,Neha Menon,Hyderabad,Telangana,2023-07-09
+CUST028,Meera Menon,Warangal,Telangana,2023-12-10
+CUST029,Swati Deshmukh,Patna,Bihar,2023-12-16
+CUST030,Nandini Agarwal,Nagpur,Maharashtra,2023-11-08
+CUST031,Rohan Agarwal,Hyderabad,Telangana,2023-10-01
+CUST032,Vikram Banerjee,Chennai,Tamil Nadu,2023-03-25
+CUST033,Amit Bose,Surat,Gujarat,2023-05-19
+CUST034,Rajesh Agarwal,Patna,Bihar,2023-10-13
+CUST035,Suresh Reddy,Bhopal,Madhya Pradesh,2023-06-16
+CUST036,Manish Dutta,Pune,Maharashtra,2023-04-28
+CUST037,Gaurav Verma,Delhi,Delhi,2023-07-25
+CUST038,Sunil Deshmukh,Nagpur,Maharashtra,2023-04-19
+CUST039,Alok Bhat,Patna,Bihar,2023-06-11
+CUST040,Kunal Singh,Indore,Madhya Pradesh,2023-09-13
+CUST041,Harish Rao,Indore,Madhya Pradesh,2023-08-23
+CUST042,Prateek Iyer,Coimbatore,Tamil Nadu,2023-03-13
+CUST043,Tarun Reddy,Bhubaneswar,Odisha,2023-10-15
+CUST044,Naveen Mehta,Coimbatore,Tamil Nadu,2023-10-27
+CUST045,Ankita Chopra,Noida,Uttar Pradesh,2023-07-24
+CUST046,Bhavna Menon,Chennai,Tamil Nadu,2023-03-12
+CUST047,Kiran Chatterjee,Kochi,Kerala,2023-02-16
+CUST048,Divya Dutta,Pune,Maharashtra,2023-02-26
+CUST049,Shilpa Iyer,Indore,Madhya Pradesh,2023-03-23
+CUST050,Payal Malhotra,Jaipur,Rajasthan,2023-11-02

@@ -1,0 +1,31 @@
+product_id,product_name,category,price
+PROD001,Wireless Noise-Canceling Headphones,Electronics,4999.0
+PROD002,5G Smartphone 128GB,Electronics,18999.0
+PROD003,4K Smart LED TV 43-inch,Electronics,28499.0
+PROD004,Bluetooth Portable Speaker,Electronics,1799.0
+PROD005,Mechanical Gaming Keyboard,Electronics,3299.0
+PROD006,Ergonomic Wireless Mouse,Electronics,1199.0
+PROD007,USB-C Fast Charging Hub,Accessories,899.0
+PROD008,Laptop Backpack Water-Resistant,Accessories,1499.0
+PROD009,Tempered Glass Screen Protector,Accessories,349.0
+PROD010,Heavy Duty Phone Case,Accessories,499.0
+PROD011,Smart Fitness Band Pro,Wearables,2499.0
+PROD012,Luxury Chronograph Smartwatch,Wearables,6999.0
+PROD013,Sports Wireless Earbuds,Wearables,1999.0
+PROD014,Ergonomic High-Back Office Chair,Furniture,8999.0
+PROD015,Solid Wood Study Desk,Furniture,6499.0
+PROD016,Adjustable Monitor Riser,Furniture,1299.0
+PROD017,Orthopedic Memory Foam Cushion,Furniture,999.0
+PROD018,Men Slim Fit Cotton Shirt,Clothing,1299.0
+PROD019,Women Embroidered Kurti,Clothing,1599.0
+PROD020,Unisex Classic Denim Jeans,Clothing,2199.0
+PROD021,Breathable Athletic Gym T-Shirt,Clothing,699.0
+PROD022,Cotton Casual Summer Dress,Clothing,1899.0
+PROD023,Lightweight Running Shoes,Footwear,2799.0
+PROD024,Classic Leather Formal Shoes,Footwear,3499.0
+PROD025,Comfort Slip-on Walking Shoes,Footwear,1699.0
+PROD026,Stainless Steel Insulated Bottle,Home & Kitchen,799.0
+PROD027,Cast Iron Induction Cookware Pan,Home & Kitchen,1899.0
+PROD028,Electric Cordless Kettle 1.5L,Home & Kitchen,1399.0
+PROD029,Automatic Drip Coffee Maker,Home & Kitchen,3299.0
+PROD030,Air Tight Food Storage Containers (Set of 6),Home & Kitchen,999.0
